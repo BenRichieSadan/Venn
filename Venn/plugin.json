@@ -1,0 +1,17 @@
+{
+    "name": "Venn",
+    "source": [
+        "d3.v4.min.js",
+        "venn.js",
+        "stylerController.js",
+        "logic-venn.js",
+        "widget.js"
+    ],
+    "style": [
+        "widget.css"
+    ],
+    "folderName": "Venn",
+    "lastUpdate": "2020-07-9T00:00:00.620Z",
+    "isEnabled": true,
+    "version": "1.0.0"
+}
