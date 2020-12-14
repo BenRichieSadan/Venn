@@ -4,7 +4,7 @@
         "d3.v4.min.js",
         "venn.js",
         "stylerController.js",
-        "logic-venn.js",
+        "logic.venn.js",
         "widget.js"
     ],
     "style": [
